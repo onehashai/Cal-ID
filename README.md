@@ -51,6 +51,18 @@ Cal.diy is **100% MIT-licensed** with no proprietary "Enterprise Edition" featur
 
 > **Note:** Cal.diy is a self-hosted project. There is no hosted/managed version. You run it on your own infrastructure.
 
+## Sponsors
+
+We are grateful to the companies supporting Cal ID.
+
+- [Blacksmith](https://www.blacksmith.sh/)
+<p>
+  <a href="https://www.blacksmith.sh/">
+    <!-- Sponsor logo placeholder -->
+    <span><img width="183" height="63" alt="image" src="https://github.com/user-attachments/assets/b9465e5a-a968-48e4-af66-9b6c6ba13c1e" /></span>
+  </a>
+</p>
+
 ### Built With
 
 - [Next.js](https://nextjs.org/)
